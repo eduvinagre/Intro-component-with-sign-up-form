@@ -46,7 +46,8 @@ This is a project I'm doing to practice HTML, CSS and Javascript skills for the 
 
 ### What I learned
 
-It's still a work in progress specially validating forms on JavaScript
+It's still a work in progress specially validating forms on JavaScript and adding responsive features for mobile.
+
 ### Continued development
 
 As said above I'll still making sure my form validations skills are on top of my knowledge
